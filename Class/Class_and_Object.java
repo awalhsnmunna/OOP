@@ -1,8 +1,8 @@
 
 public class Main {
     public static void main(String[] args) {
+        
         Student s = new Student();
-
         s.roll = 15;
         s.name = "Munna";
         s.cgpa = 3.95f;
@@ -10,7 +10,6 @@ public class Main {
         System.out.println(s.roll);
         System.out.println(s.name);
         System.out.println(s.cgpa);
-
     }
 }
 
@@ -33,3 +32,5 @@ Object occupies space in memory unlike class */
 // Object: Objects are stored in (heap memory)
 // Reference: References are stored in (stack memory)
 // final (keyword): Always assign while declaring
+
+
