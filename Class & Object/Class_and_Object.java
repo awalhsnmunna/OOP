@@ -32,5 +32,6 @@ Object occupies space in memory unlike class */
 // Object: Objects are stored in (heap memory)
 // Reference: References are stored in (stack memory)
 // final (keyword): Always assign while declaring
+// new (keyword) : new dynamically allocates memory
 
 
